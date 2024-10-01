@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		845FEEA22CAC7AF400760E60 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845FEEA12CAC7AF400760E60 /* HomeViewModel.swift */; };
 		8465A6F52CAB05A30083DB5A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8465A6EF2CAB05A30083DB5A /* Preview Assets.xcassets */; };
 		8465A6F62CAB05A30083DB5A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8465A6F12CAB05A30083DB5A /* Assets.xcassets */; };
 		8465A6F72CAB05A30083DB5A /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8465A6E82CAB05A30083DB5A /* HomeView.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		845FEEA12CAC7AF400760E60 /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
 		8465A6E82CAB05A30083DB5A /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		8465A6ED2CAB05A30083DB5A /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 		8465A6EF2CAB05A30083DB5A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -49,7 +51,7 @@
 		8465A6E92CAB05A30083DB5A /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
-				8465A6E82CAB05A30083DB5A /* HomeView.swift */,
+				845FEEA12CAC7AF400760E60 /* HomeViewModel.swift */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				84DE5DA92CAC6BB30019F087 /* CoinRowView.swift */,
+				8465A6E82CAB05A30083DB5A /* HomeView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -228,6 +231,7 @@
 				8465A6F72CAB05A30083DB5A /* HomeView.swift in Sources */,
 				8465A6F82CAB05A30083DB5A /* Color.swift in Sources */,
 				8465A6FE2CAB07520083DB5A /* CircleButtonView.swift in Sources */,
+				845FEEA22CAC7AF400760E60 /* HomeViewModel.swift in Sources */,
 				8465A6FA2CAB05A30083DB5A /* CryptoTrackerApp.swift in Sources */,
 				8465A7032CAB0DCF0083DB5A /* CoinModel.swift in Sources */,
 				84DE5DAC2CAC6CEC0019F087 /* DeveloperPreview.swift in Sources */,
