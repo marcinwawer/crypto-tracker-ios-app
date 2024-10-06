@@ -37,6 +37,7 @@
 		84DE5DAC2CAC6CEC0019F087 /* DeveloperPreview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DE5DAB2CAC6CEC0019F087 /* DeveloperPreview.swift */; };
 		84E4E92B2CB1948A00B12B64 /* StatisticModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E4E92A2CB1948A00B12B64 /* StatisticModel.swift */; };
 		84E4E92D2CB1962F00B12B64 /* StatisticView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E4E92C2CB1962F00B12B64 /* StatisticView.swift */; };
+		84F200DA2CB2A98B00008EE8 /* HapticManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F200D92CB2A98B00008EE8 /* HapticManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -71,6 +72,7 @@
 		84DE5DAB2CAC6CEC0019F087 /* DeveloperPreview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeveloperPreview.swift; sourceTree = "<group>"; };
 		84E4E92A2CB1948A00B12B64 /* StatisticModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticModel.swift; sourceTree = "<group>"; };
 		84E4E92C2CB1962F00B12B64 /* StatisticView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticView.swift; sourceTree = "<group>"; };
+		84F200D92CB2A98B00008EE8 /* HapticManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			children = (
 				845FEEA72CADC4FC00760E60 /* NetworkingManager.swift */,
 				845FEEB02CAEAECF00760E60 /* LocalFileManager.swift */,
+				84F200D92CB2A98B00008EE8 /* HapticManager.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -330,6 +333,7 @@
 				846793D32CAC7041000079DD /* Double.swift in Sources */,
 				845FEEA82CADC4FC00760E60 /* NetworkingManager.swift in Sources */,
 				8465A7002CAB0A4B0083DB5A /* CircleButtonAnimationView.swift in Sources */,
+				84F200DA2CB2A98B00008EE8 /* HapticManager.swift in Sources */,
 				848EBDA82CB1D5D800F6E9CF /* XMarkButton.swift in Sources */,
 				845FEEAD2CADCB1D00760E60 /* CoinImageService.swift in Sources */,
 				841B25DC2CAF2A3700B20C33 /* SearchBarView.swift in Sources */,
