@@ -52,7 +52,6 @@
 /* Begin PBXFileReference section */
 		840FCA942CB28E5900F41A20 /* PortfolioContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = PortfolioContainer.xcdatamodel; sourceTree = "<group>"; };
 		840FCA962CB28EFC00F41A20 /* PortfolioDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortfolioDataService.swift; sourceTree = "<group>"; };
-		841B141E2CC9704E0051DC1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		841B25DB2CAF2A3700B20C33 /* SearchBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBarView.swift; sourceTree = "<group>"; };
 		841B25DD2CAF314400B20C33 /* UIApplication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIApplication.swift; sourceTree = "<group>"; };
 		842D1DB92CC97533000DE906 /* LaunchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchView.swift; sourceTree = "<group>"; };
@@ -217,7 +216,6 @@
 		8465A6F42CAB05A30083DB5A /* CryptoTracker */ = {
 			isa = PBXGroup;
 			children = (
-				841B141E2CC9704E0051DC1E /* Info.plist */,
 				8465A6F32CAB05A30083DB5A /* CryptoTrackerApp.swift */,
 				845FEEA62CADC4C000760E60 /* Utilities */,
 				8465A6EE2CAB05A30083DB5A /* Extensions */,
