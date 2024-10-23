@@ -11,7 +11,7 @@ struct HomeView: View {
     @EnvironmentObject private var vm: HomeViewModel
     @State private var showPortfolio: Bool = false // animate right
     @State private var showPortfolioView: Bool = false // new sheet
-    @State private var showSettingsView: Bool = false
+    @State private var showSettingsView: Bool = false // new sheet
     @State private var selectedCoin: CoinModel? = nil
     @State private var showDetailVeiw = false
     
@@ -118,6 +118,7 @@ extension HomeView {
                     .onTapGesture {
                         segue(coin: coin)
                     }
+                    .listRowBackground(Color.theme.background)
             }
         }
         .listStyle(.plain)
@@ -132,6 +133,7 @@ extension HomeView {
                     .onTapGesture {
                         segue(coin: coin)
                     }
+                    .listRowBackground(Color.theme.background)
             }
         }
         .listStyle(.plain)
