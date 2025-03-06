@@ -9,7 +9,7 @@ import Foundation
 
 // JSON Data
 /*
- URL: https://api.coingecko.com/api/v3/coins/bitcoin?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false&x_cg_demo_api_key=CG-ua76UZJbusWpdUyMpADNEvuo
+ URL: https://api.coingecko.com/api/v3/coins/bitcoin?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false&x_cg_demo_api_key=\(AppData.shared.apiKey)
  
  Response:
  {

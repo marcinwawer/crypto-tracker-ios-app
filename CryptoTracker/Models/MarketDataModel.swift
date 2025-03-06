@@ -9,7 +9,7 @@ import Foundation
 
 // JSON data
 /*
- URL: https://pro-api.coingecko.com/api/v3/global&x_cg_demo_api_key=CG-ua76UZJbusWpdUyMpADNEvuo
+ URL: https://pro-api.coingecko.com/api/v3/global&x_cg_demo_api_key=\(AppData.shared.apiKey)
  
  JSON response:
  {
