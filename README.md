@@ -1,4 +1,4 @@
-# 🎓 Crypto Tracker
+# 💸 Crypto Tracker
 # Cryptocurrency market in your pocket!
 
 ### Crypto Tracker is a mobile app that allows users to track real-time cryptocurrency market data and manage their own portfolio. Stay updated with the latest prices, market trends, and easily monitor your investments in one convenient place. <br><br><br>
