@@ -115,7 +115,7 @@ extension SettingsView {
             }
             .padding(.vertical)
             
-            Link("Visit Github 🤝", destination: coingeckoURL)
+            Link("Visit Github 🤝", destination: personalURL)
         } header: {
             Text("Developer")
         }

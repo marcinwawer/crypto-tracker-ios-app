@@ -11,5 +11,5 @@ class AppData {
     static let shared = AppData()
     private init() {}
     
-    let apiKey  = "CG-ua76UZJbusWpdUyMpADNEvuo"
+    let apiKey  = ""
 }
