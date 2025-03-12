@@ -20,6 +20,7 @@
 - SwiftUI
 - MVVM
 - Combine
+- REST API
 - CoreData
 
 # 🛜 API Used: CoinGecko
